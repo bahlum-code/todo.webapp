@@ -1,0 +1,43 @@
+#Form__Login{
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 8rem 2rem;
+}
+
+#Form__Login input{
+    border-radius: 6px;
+    border: 2px solid #FFB7B2;
+    width: 80%;
+}
+
+#Form__Login input:hover{
+    color: #968e8f;
+}
+
+#Form__Login input:focus{
+    border: 3px solid #968e8f;
+}
+
+#Form__Login label{
+   color: #FFB7B2;
+}
+
+.Form__Button {
+    margin: 5px auto;
+    text-align: center;
+    margin-right: 11rem;
+    margin-top: 2rem;
+}
+
+.Form__Button button{
+    background-color: #FFB7B2;
+    border: 1px solid #FFB7B2;
+}
+
+.Form__Button button:hover{
+    background-color: #f5636f;
+    border: 1px solid #FFB7B2;
+}
+
+
+
